@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@inrupt/solid-client": "^1.20.1",
     "commander": "^9.0.0",
     "http-link-header": "^1.0.4",
     "mime-types": "^2.1.35",
