@@ -45,10 +45,10 @@ The config file must be a JSON file formatted as follows:
 
 ```
 {
-  idp: <user identity provider>,
-  email: <user email>,
-  password: <user password>,
-  storage: <prefered storage location>,
+  "idp": "<user identity provider>",
+  "email": "<user email>",
+  "password": "<user password>",
+  "storage": "<prefered storage location>"
 }
 ```
 (Not all values have to be present in the config)
@@ -193,7 +193,7 @@ options
   -v, --verbose  Log all operations to cli
 ```
 
-#### parms
+#### perms
 This command enables the listing, editing and removing of ACL resources connected to a resource.
 **This command only works with ACL resources. It does not support ACP**
 usage
