@@ -1,4 +1,5 @@
 # BashLib CSS tooling
+## Deprecated - for the latest version please go to: https://github.com/SolidLabResearch/Bashlib
 This is a set of tools specifically for facilitating interactions with the [Community Solid Server](https://github.com/CommunitySolidServer/CommunitySolidServer) API.
 
 It provides a core set of [**functionality**](#functionality) for [creating data pods on a css instance](#create-pod) and [creating a client credentials token](#create-token) on a [Community Solid Server](https://github.com/CommunitySolidServer/CommunitySolidServer) instance, as well as a set of [**authentication options**](#creating-an-authenticated-fetch) for Node.JS.
